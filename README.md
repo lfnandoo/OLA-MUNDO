@@ -1,2 +1,2 @@
 # OLA-MUNDO
- Git e GH
+ Aprendendo Git e GitHub
